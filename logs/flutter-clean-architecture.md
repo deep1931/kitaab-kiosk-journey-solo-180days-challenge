@@ -57,7 +57,7 @@ Frameworks change — **good architecture stays.**
 ---
 
 🖼️ *Image below depicts a simple and powerful Flutter app structure — hope it helps!*
-![Image depicting project files and structure][logs/flutter-clean-structure.png]
+![Image depicting project files and structure](./logs/flutter-clean-structure.png)
 ---
 
 ## 🔗 Connect with Me
